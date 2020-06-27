@@ -1,5 +1,5 @@
 # OSDev
-A placeholder repo for holding some operating system development code.
+A placeholder repo for holding some operating system development code. All samples were tested using QEMU and NASM.
 
 ## Files
 
